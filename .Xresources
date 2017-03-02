@@ -1,0 +1,26 @@
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+
+!Purple
+!rofi.color-enabled: true
+!rofi.color-window: #353945, #353945, #979797
+!rofi.color-normal: #353945, #b2b2b2, #353945, #684a6d, #c9c9c9
+!rofi.color-active: #684a6d, #c3c3c3, #eee8d5, #684a6d, #dbdbdb
+!rofi.color-urgent: #fdf6e3, #dc322f, #eee8d5, #dc322f, #fdf6e3
+
+!Arc theme blue
+!rofi.color-enabled: true
+!rofi.color-window: #353945, #353945, #000000
+!rofi.color-normal: #353945, #b2b2b2, #353945, #4084d6, #ffffff
+!rofi.color-active: #fdf6e3, #268bd2, #eee8d5, #268bd2, #fdf6e3
+!rofi.color-urgent: #fdf6e3, #dc322f, #eee8d5, #dc322f, #fdf6e3
+
+!black
+rofi.color-enabled: true
+rofi.color-window: #000a27, #000a27, #5294e2
+rofi.color-normal: #000a27, #d0d0d0, #000a27, #268bd2, #d0d0d0
+rofi.color-active: #5294e2, #d0d0d0, #eee8d5, #268bd2, #5294e2
+rofi.color-urgent: #5294e2, #dc322f, #eee8d5, #dc322f, #5294e2
+
+
